@@ -1,0 +1,28 @@
+#
+# Directories
+#
+Debug/
+Release/
+ipch/
+bin/
+obj/
+
+#
+# File Extensions
+#
+*.vcxproj.user
+*.sdf
+*.opensdf
+*.suo
+*.jpg
+*.exe
+*.obj
+
+#
+# Specific Files
+#
+
+#
+# Exceptions
+#
+!TargetFinder/Tests/TestImages/*.jpg
